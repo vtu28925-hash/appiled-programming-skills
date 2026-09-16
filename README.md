@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
