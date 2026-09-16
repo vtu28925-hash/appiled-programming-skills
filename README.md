@@ -89,6 +89,7 @@
 | [0622-design-circular-queue](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1600-throne-inheritance) |
 ## Doubly-Linked List
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
@@ -149,6 +151,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
