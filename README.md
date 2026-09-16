@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1472-design-browser-history) |
@@ -20,6 +21,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0496-next-greater-element-i) |
 | [1600-throne-inheritance](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1600-throne-inheritance) |
 ## Sliding Window
 |  |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0496-next-greater-element-i) |
 | [1472-design-browser-history](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
