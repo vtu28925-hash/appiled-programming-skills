@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1600-throne-inheritance](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1600-throne-inheritance) |
 ## Sliding Window
 |  |
@@ -85,4 +86,16 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
