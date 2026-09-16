@@ -7,6 +7,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1600-throne-inheritance) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vtu28925-hash/appiled-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
